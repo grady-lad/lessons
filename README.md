@@ -1,2 +1,3 @@
 # lessons
-exercises following the eloquent javascript.
+
+fun fun functions.
